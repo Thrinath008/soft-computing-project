@@ -182,17 +182,6 @@ u10086,Tanya,tanya180@example.com,"['AWS', 'Java', 'Pandas']","['Edge Computing'
 
 ---
 
-## 📸 Screenshots
-*(Add your app’s UI screenshot here for extra flair!)*  
-To add a screenshot:
-1. Take a screenshot of your app.
-2. Upload it to the repo (e.g., `screenshots/app.png`).
-3. Add this Markdown:  
-   ```markdown
-   ![App Screenshot](screenshots/app.png)
-   ```
-
----
 
 ## 🔮 Future Improvements
 - 🔒 **Authentication**: Add login for profile management.
